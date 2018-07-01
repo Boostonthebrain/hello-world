@@ -1,1 +1,3 @@
 # hello-world
+I'm just hoping nobody hard-forks this.
+I'm super worried about hello-worldcash taking over my market share...
